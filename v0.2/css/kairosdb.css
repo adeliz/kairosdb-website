@@ -143,8 +143,8 @@ a:hover {
 }
 
 .jumbotron {
-	padding-top: 250px; /* If you're making other pages, make sure there is 50px of padding to make sure the navbar doesn't overlap content! */
-    padding-bottom: 250px;
+	padding-top: 70px; /* If you're making other pages, make sure there is 50px of padding to make sure the navbar doesn't overlap content! */
+    padding-bottom: 70px;
     margin-bottom:0px;
     text-align: center;
     /*color: #f8f8f8;*/
